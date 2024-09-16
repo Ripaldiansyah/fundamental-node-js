@@ -32,7 +32,7 @@ Project ini bertujuan untuk mempelajari dan menguasai fundamental Node.js melalu
 
 2. Navigate to the project folder:
     ```bash
-    cd tickitz
+    cd fundamental-node-js
     
 3. running with Node js
 ## Authors
